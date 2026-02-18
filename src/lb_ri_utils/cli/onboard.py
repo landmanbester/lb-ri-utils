@@ -1,4 +1,3 @@
-
 from hip_cargo.utils.decorators import stimela_cab
 
 
