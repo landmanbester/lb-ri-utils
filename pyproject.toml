@@ -1,6 +1,6 @@
 [project]
 name = "lb-ri-utils"
-version = "0.0.1"
+version = "0.0.0"
 description = "Utilities for working with radio interfermetric data"
 readme = "README.md"
 requires-python = ">=3.10"
