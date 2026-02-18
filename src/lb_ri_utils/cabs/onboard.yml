@@ -2,7 +2,7 @@ cabs:
   onboard:
     flavour: python
     command: lb_ri_utils.core.onboard.onboard
-    image: ghcr.io/landmanbester/lb-ri-utils:test0.0.1
+    image: ghcr.io/landmanbester/lb-ri-utils:latest
     name: onboard
     info:
       Print setup instructions for CI/CD, PyPI publishing, and GitHub configuration.
